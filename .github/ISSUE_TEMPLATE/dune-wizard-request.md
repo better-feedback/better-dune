@@ -13,22 +13,30 @@ Important note: The information in this form will be publicly shared, please don
 
 ---
 
-Your project name
+**Your project name**
 
-What's your project's website?
 
-Is there a project Discord?
+**What's your project's website?**
 
-Please, briefly describe your project
 
-What information do you need to be surfaced? Please be specific. 
+**Is there a project Discord?**
 
-Any additional notes?
 
-Please share a link to your technical documentation
+**Please, briefly describe your project**
 
-What's your budget for this? This question is required.*
-Please specify currency and amount, e.g. 3ETH, 100 $PICKLE or $5000...
 
-How should wizards get in touch with you?This question is required. *
-Telegram, Discord, Email, etc. Remember this will be public.
+**What information do you need to be surfaced? Please be specific. **
+
+
+**Any additional notes?**
+
+
+**Please share a link to your technical documentation**
+
+
+**What's your budget for this? This question is required.*
+Please specify currency and amount, e.g. 3ETH, 100 $PICKLE or $5000...**
+
+
+**How should wizards get in touch with you?This question is required. *
+Telegram, Discord, Email, etc. Remember this will be public.**
